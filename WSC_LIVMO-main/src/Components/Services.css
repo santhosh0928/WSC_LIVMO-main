@@ -1,0 +1,30 @@
+.counter-section {
+    text-align: center;
+    padding: 4px 0;
+  }
+  
+  .counter-container {
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .counter-column {
+    flex-basis: 25%;
+    margin: 20px;
+  }
+  
+  .counter-title {
+    font-size: 26px;
+    font-weight: bold;
+    color: #06c;
+  }
+  
+  .counter-number {
+    font-size: 75px;
+    font-weight: bold;
+    color: #00698f;
+    margin-top: 50px;
+  }
+  

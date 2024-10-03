@@ -1,0 +1,43 @@
+.login-btn {
+    width: 90px;
+    height: 40px;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .register-btn {
+    margin-top: 20px;
+    width: 90px;
+    height: 40px;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  
+  .bg-backgroundColor {
+    background-color: #0cced4;
+  }
+  
+  .text-hoverColor {
+    color: #e61717;
+  }
+  
+  .hover:text-hoverColor {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .brightColor {
+    background-color: #4CAF50;
+  }
+  
+  .hover:bg-hoverColor {
+    transition: background-color 0.3s ease-in-out;
+  }
+  .register-btn:hover {
+    background-color: #1c12ad; /* Darker Green on hover */
+  }
+  .login-btn:hover {
+    background-color: #1c12ad; /* Darker Green on hover */
+  }
